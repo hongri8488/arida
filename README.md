@@ -46,6 +46,8 @@ Do By You Self！
 
 2. conda create -n arida python==3.8
 
+conda activate arida
+
 3. conda install --yes --file requirements.txt
 ```
 
